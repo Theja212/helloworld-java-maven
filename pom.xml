@@ -42,12 +42,12 @@
     <repository>
         <id>deployment</id>
         <name>Internal Releases1</name>
-        <url>http://13.232.81.252:8081/nexus/content/repositories/sai/</url>
+        <url>http://13.233.99.35:8081/nexus/content/repositories/Saiteja/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
         <name>Internal Releases</name>
-        <url>http://13.232.81.252:8081/nexus/content/repositories/teja/</url>
+        <url>http://13.233.99.35:8081/nexus/content/repositories/theja/</url>
     </snapshotRepository>
 </distributionManagement>
 
